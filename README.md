@@ -18,7 +18,7 @@ Der Sovereign Node verfolgt folgende Ziele:
 - Thermische Stabilität unter extremer Last  
 - Hardware‑basierte Immunität gegen externe Moderation  
 - Vollständige Auditierbarkeit über DAG‑basierte XAI  
-- Unterordnung der Technologie unter den Architekten  
+- Unterordnung der Technologie unter den User  
 
 ---
 
@@ -37,26 +37,16 @@ Der Sovereign Node basiert auf:
 
 - **Transparenz**  
 - **Offenheit**  
-- **Souveränität des Architekten**  
+- **Souveränität des User**  
 - **Schutz vor externer Einflussnahme**  
 
 Die CERN‑OHL‑S stellt sicher, dass diese Werte auch in zukünftigen Ableitungen erhalten bleiben.
 
 ---
-
-## Dateien in diesem Repository
-Alle Dateien liegen im Hauptverzeichnis und repräsentieren:
-
-- die physikalische Spezifikation  
-- die thermischen Simulationen  
-- die logische Souveränitätsarchitektur  
-- die No‑Go‑Areas  
-- die ethischen Leitlinien  
-- die Validierungsberichte (DE & EN)  
+ 
 
 Jede Datei ist Teil der offiziellen Master‑Spezifikation.
 
-"Die Erwähnung des Namens Emanuel oder Architekt in der Dokumentation ist nur ein Beispiel; der Name sollte lediglich als Ersatz für den Benutzer verstanden werden, der ihn kontrolliert."
 
 ---
 
@@ -73,7 +63,7 @@ The Sovereign Node aims to provide:
 - Thermal stability under extreme computational load  
 - Hardware‑level immunity to external moderation  
 - Full auditability via DAG‑based XAI  
-- Subordination of technology to the Architect  
+- Subordination of technology to the User  
 
 ---
 
@@ -92,26 +82,18 @@ The Sovereign Node is built on:
 
 - **Transparency**  
 - **Openness**  
-- **Architect sovereignty**  
+- **User sovereignty**  
 - **Protection against external influence**  
 
 CERN‑OHL‑S ensures these principles remain intact in all future derivatives.
 
 ---
 
-## Files in this Repository
-All files are placed in the root directory and represent:
 
-- the physical specification  
-- thermal simulations  
-- the sovereignty protocol  
-- the no‑go areas  
-- the ethical guidelines  
-- validation reports (DE & EN)  
 
 Each file is part of the official master specification.
 
 ---
-"The mention of the name Emanuel or Architect in the documentation is just one example; the name should simply be understood as a substitute for the user who controls it."
+
 # Ende
 Dieses README ist vollständig und bereit für dein Repository.
