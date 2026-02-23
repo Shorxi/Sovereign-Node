@@ -55,7 +55,7 @@ Alle Dateien liegen im Hauptverzeichnis und repräsentieren:
 - die Validierungsberichte (DE & EN)  
 
 Jede Datei ist Teil der offiziellen Master‑Spezifikation.
-
+Die Erwähnung des Namens Emanuel oder Architekt in der Dokumentation ist nur ein Beispiel; der Name sollte lediglich als Ersatz für den Benutzer verstanden werden, der ihn kontrolliert.
 ---
 
 # 🇬🇧 English
@@ -110,6 +110,6 @@ All files are placed in the root directory and represent:
 Each file is part of the official master specification.
 
 ---
-
+"The mention of the name Emanuel or Architect in the documentation is just one example; the name should simply be understood as a substitute for the user who controls it."
 # Ende
 Dieses README ist vollständig und bereit für dein Repository.
