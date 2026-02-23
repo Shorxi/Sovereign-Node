@@ -55,8 +55,8 @@ Alle Dateien liegen im Hauptverzeichnis und repräsentieren:
 - die Validierungsberichte (DE & EN)  
 
 Jede Datei ist Teil der offiziellen Master‑Spezifikation.
-"Die Erwähnung des Namens Emanuel oder Architekt in der Dokumentation ist nur ein Beispiel; der Name sollte lediglich als Ersatz für den Benutzer verstanden werden, der ihn kontrolliert."
 
+"Die Erwähnung des Namens Emanuel oder Architekt in der Dokumentation ist nur ein Beispiel; der Name sollte lediglich als Ersatz für den Benutzer verstanden werden, der ihn kontrolliert."
 
 ---
 
